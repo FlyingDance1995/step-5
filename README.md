@@ -65,5 +65,5 @@ var multiply = (x, y) => x * y ;
 ###### -	Bài nộp được chia thành 03 folder bên trong: 
 ###### o	exe: …..
 ###### o	src: Chứa mã nguồn. 
-###### o	doc: Báo Cáo (step5.doc).
+###### o	README.md: Báo Cáo.
 ###### -	Tạo Project trên Github và gửi link cho người hướng dẫn:
