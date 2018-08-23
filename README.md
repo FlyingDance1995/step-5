@@ -51,7 +51,7 @@ var multiply = function(x, y) {
 var multiply = (x, y) => { return x * y };
 ```
 
-###### Trong trường hợp chỉ có một biểu thức thì không cần tới dấu ngoặc nhọn: Ví dụ trên có thể viết lại như sau:
+- Trong trường hợp chỉ có một biểu thức thì không cần tới dấu ngoặc nhọn: Ví dụ trên có thể viết lại như sau:
 ```javascript
 var multiply = (x, y) => x * y ;
 ```
