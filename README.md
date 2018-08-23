@@ -3,7 +3,7 @@
 
 ### I. NỘI DUNG TÌM HIỂU
 
-##### 1. ES6 là gì?
+#### 1. ES6 là gì?
 
  - **ES6** là chữ viết tắt của ECMAScript 6, là phiên bản mới nhất của chuẩn ECMAScript. ECMAScript do hiệp hội các nhà sản xuất máy tính Châu Âu đề xuất làm tiêu chuẩn của ngôn ngữ Javascript. Bạn cứ nghĩ xem hiện nay có khá nhiều trình duyệt Browser ra đời và nếu mỗi Browser lại có cách chạy Javascript khác nhau thì các trang web không thể hoạt động trên tất cả các trình duyệt đó được, vì vậy cần có một chuẩn chung để bắt buộc các browser phải phát triển dựa theo chuẩn đó.
   **ES6** ra đời vào năm 2015 nên cái tên ES2015 được lấy làm tên chính thức với nhiều tính năng mới học hỏi các ngôn ngữ cấp cao khác.
@@ -36,10 +36,10 @@ function foo() {
 }
 ```
 
-##### - Arrow function là gì?
+#### - Arrow function là gì?
  Arrow function - còn được gọi là "fat arrow", là cú pháp được mượn từ *CoffeeScript* (một ngôn ngữ chuyển tiếp), cú pháp này là cách ngắn gọn hơn dùng để viết function. Ở đây sử dụng kí tự => Arrow function là một hàm vô danh và nó thay đổi cách this bind đến function. Arrow function làm code của ta trông ngắn gọn hơn, giúp đơn giản hóa function scoping cũng như từ khóa this. Arrow function hoạt động tương tự như Lambdas trong các ngôn ngữ khác như C # hay Python. Bằng cách sử dụng arrow function, chúng ta tránh được việc phải gõ từ khoá function, return và dấu ngoặc nhọn.
 
-##### -	Ví dụ:
+#### -	Ví dụ:
 
 ```javascript
 // ES5 
